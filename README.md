@@ -1,6 +1,6 @@
 # Olá Pessoal! :vulcan_salute:
 
-Sou Eduardo Rayleson, podem de chamar de Rayle. Sou curioso, tenho muita vontade de aprender algo novo, por isso, estou sempre em busca de novos conhecimentos e novas experiência. Atualmente sou desenvolvedor backend com experiência em: Nodejs, TypeScript, PostgresSQL. Mas também tenho conhecimentos em: HTML, CSS, Reactjs e Boodstrep.
+Sou Eduardo Rayleson, podem me chamar de Rayle. Sou curioso, tenho muita vontade de aprender algo novo, por isso, estou sempre em busca de novos conhecimentos e novas experiência. Atualmente sou desenvolvedor backend com experiência em: Nodejs, TypeScript, PostgresSQL. Mas também tenho conhecimentos em: HTML, CSS, Reactjs e Boodstrep.
 
 ## :point_right: Para me encontrar:
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/eduardorayleson/) 
